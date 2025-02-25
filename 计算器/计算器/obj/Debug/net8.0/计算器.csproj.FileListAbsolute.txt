@@ -1,0 +1,14 @@
+D:\c_sharp\计算器\计算器\bin\Debug\net8.0\计算器.exe
+D:\c_sharp\计算器\计算器\bin\Debug\net8.0\计算器.deps.json
+D:\c_sharp\计算器\计算器\bin\Debug\net8.0\计算器.runtimeconfig.json
+D:\c_sharp\计算器\计算器\bin\Debug\net8.0\计算器.dll
+D:\c_sharp\计算器\计算器\bin\Debug\net8.0\计算器.pdb
+D:\c_sharp\计算器\计算器\obj\Debug\net8.0\计算器.GeneratedMSBuildEditorConfig.editorconfig
+D:\c_sharp\计算器\计算器\obj\Debug\net8.0\计算器.AssemblyInfoInputs.cache
+D:\c_sharp\计算器\计算器\obj\Debug\net8.0\计算器.AssemblyInfo.cs
+D:\c_sharp\计算器\计算器\obj\Debug\net8.0\计算器.csproj.CoreCompileInputs.cache
+D:\c_sharp\计算器\计算器\obj\Debug\net8.0\计算器.dll
+D:\c_sharp\计算器\计算器\obj\Debug\net8.0\refint\计算器.dll
+D:\c_sharp\计算器\计算器\obj\Debug\net8.0\计算器.pdb
+D:\c_sharp\计算器\计算器\obj\Debug\net8.0\计算器.genruntimeconfig.cache
+D:\c_sharp\计算器\计算器\obj\Debug\net8.0\ref\计算器.dll
